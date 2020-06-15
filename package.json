@@ -1,0 +1,27 @@
+{
+  "name": "curso",
+  "version": "1.0.0",
+  "description": "curso do Devmedia",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "wallyson",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wallyprog/Express_intro.git"
+  },
+  "keywords": [
+    "curso",
+    "express",
+    "web"
+  ],
+  "bugs": {
+    "url": "https://github.com/wallyprog/Express_intro/issues"
+  },
+  "homepage": "https://github.com/wallyprog/Express_intro#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
